@@ -1,0 +1,243 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/*section one */
+.secOne{
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	background-image: url(../images/2.jpg);
+	background-position: initial;
+	font-size: 40px;
+	background-size: cover;
+	background-origin: content-box;
+	font-style: bold;
+
+}
+
+#secOne .divOne p{
+	font-size: 30px;
+	margin: 0px;
+	}
+
+#secOne button{
+	padding: 10px 20px;
+	border-radius: 5px;
+	background-color: #FF3333;
+	color: white;
+	border: none;
+}
+#secOne .divOne {
+	padding:230px 0 243px 0;
+}
+
+/*section 2*/
+
+.secTwo{
+	text-align: center;
+	padding: 20px 60px;
+	text-decoration: bold;
+	font-family: sans-serif;
+	padding: 50px 30px;
+	background-color: #E6E6FA;
+	box-sizing: content-box;
+
+}
+
+.secTwo h3{
+	padding: 20px 0px;
+
+}
+.secTwo img{
+	height: 65px;
+	width: 65px;
+	position: center;
+	padding: 3px 0px;
+}
+#secTwo.secTwo div{
+	display: inline-block;
+	width: 30%;
+	padding: 10px 20px;
+}
+
+/*section Three*/
+
+#secThree .divThree{
+	display: inline-block;
+	width: 40%;
+
+}
+
+.secThree{
+	background-color: #001933;
+	color: white;
+	font-family: sans-serif;
+	text-decoration: bold;
+	padding: 10px;
+	line-height: 25px;
+	margin: 0px;
+	
+
+
+}
+.secThree img{
+	height: 300px;
+	width: 300px;
+	padding-left: 250px;
+	margin-top: 0px;
+	padding-top: 100px;
+}
+.secThree h1{
+	padding: 10px 20px;
+	margin-left: 100px;
+	
+}
+.secThree p{
+	padding: 10px 20px;
+	margin-left: 100px;
+	padding-bottom: 20px;
+
+}
+#secThree button{
+	padding: 10px 20px;
+	border-radius: 5px;
+	color: white;
+	background-color: #FF3333;
+	border: none;
+	margin-left: 120px;
+	margin-bottom: 100px;
+	
+}
+
+/*section four */
+
+.secFour{
+	background-color: #E6E6FA;
+	color: #001933;
+	font-family: sans-serif;
+	text-decoration: bold;
+	line-height: 25px;
+}
+
+#secFour .divFour{
+	display: inline-block;
+	width: 40%;
+}
+
+.secFour img{
+	height: 300px;
+	width: 500px;
+	padding-top: 50px;
+	padding-left: 100px;
+
+}
+
+.secFour p{
+	padding-left: 150px;
+	padding-bottom: 100px;
+	
+}
+
+.secFour h1{
+	padding-left: 150px;
+	padding-bottom: 20px;
+
+
+}
+
+/*section five*/
+
+.secFive{
+	background-color: white;
+	color: #001933;
+	text-align: center;
+	font-family: sans-serif;
+	margin: 60px 50px;
+
+
+}
+
+#secFive .divFive{
+	display: inline-block;
+	width: 30%;
+	padding: 20px 10px;
+	margin: 0px 5px;
+}
+
+.secFive h2{
+	padding: 10px 0px;
+	color: red;
+	font-size: 45px;
+	padding-bottom: 20px;
+	font-style: normal;
+}
+.secFive h3{
+	padding-bottom: 15px;
+}
+
+.secFive h4{
+	padding: 0px 20px;
+	font-size: 15px;
+}
+
+/*section six*/
+
+.secSix{
+	background-color: #E6E6FA;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: #001933;
+}
+#secSix {
+	padding: 50px 30px;
+}
+#secSix .divSixA{
+	display: inline-block;
+	width: 30%;
+	padding-top: 30px;
+}
+
+.secSix img{
+	width: 280px;
+	height: 70px;
+	padding: 5px;
+	padding: 10px;
+}
+.secSix h1{
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+
+/*section seven*/
+
+.secSeven{
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	background-color: #001933; 
+	background-position: initial;
+	font-size: 40px;
+	background-size: cover;
+	background-origin: content-box;
+	font-style: bold;
+}
+#secSeven button{
+	padding: 10px 20px;
+	border-radius: 5px;
+	background-color: #FF3333;
+	color: white;
+	border: none;
+}
+#secSeven .divSeven p{
+	font-size: 30px;
+	margin: 0px;
+	}
+#secSeven .divSeven {
+	padding:100px 0 100px 0;
+}
+.secSeven p{
+	padding-bottom: 10px;
+}
